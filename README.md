@@ -1,6 +1,6 @@
-YOUNG NETWORK: python code for network 
+YOUNG NETWORK: python code for the young network 
 
 
 
 
-SYNAPTIC LOSS NETWORK: python code for aged network, with synapse loss. 
+SYNAPTIC LOSS NETWORK: python code for network with synapse loss. 
